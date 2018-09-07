@@ -7,6 +7,6 @@ Quick start:
 1. cd ./src;
 2. python main.py
 
-You are welcomed to contact with me for further discussions!
+You are welcomed to contact me for further discussions!
 
 
